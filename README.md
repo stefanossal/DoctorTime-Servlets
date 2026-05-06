@@ -1,7 +1,7 @@
 # 🏥 DoctorTime Servlets
 
 A Java Web Application built with **Servlets** for managing medical examinations between patients and doctors.  
-The system supports user registration, authentication, messaging, and examination management using a **PostgreSQL database** with **JDBC**.
+The system supports user registration, authentication, messaging and examination management using a **PostgreSQL database** with **JDBC**.
 
 ---
 
