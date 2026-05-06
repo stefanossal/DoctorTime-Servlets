@@ -55,9 +55,9 @@ The application is built using:
 ## 🛠️ Technologies
 
 - **Java Servlets**
-**HTML / CSS (Frontend)**
-**Apache Tomcat (Server)**
-**PostgreSQL (Database)**
-**JDBC Driver**
-**Eclipse IDE (Development)** 
+- **HTML / CSS (Frontend)**
+- **Apache Tomcat (Server)**
+- **PostgreSQL (Database)**
+- **JDBC Driver**
+- **Eclipse IDE (Development)** 
 
